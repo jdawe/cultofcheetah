@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8e699e0948cee44d6b15dc4ccb81f91ad271da7b",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8e699e0948cee44d6b15dc4ccb81f91ad271da7b",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Cult of Cheetah",
+  "SYMBOL": "COC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 11000000000000000,
+  "DISPLAY_COST": 0.011,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cultofcheetah",
+  "SHOW_BACKGROUND": false
+}
