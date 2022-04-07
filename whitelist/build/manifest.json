@@ -1,7 +1,7 @@
 {
-  "build/main.css": "/build/main.css",
-  "build/main.js": "/build/main.js",
-  "build/images/coc_logo.png": "/build/images/coc_logo.png",
-  "build/images/preview.png": "/build/images/preview.png",
-  "build/images/fav.png": "/build/images/fav.png"
+  "whitelist/build/main.css": "/whitelist/build/main.css",
+  "whitelist/build/main.js": "/whitelist/build/main.js",
+  "whitelist/build/images/coc_logo.png": "/whitelist/build/images/coc_logo.png",
+  "whitelist/build/images/preview.png": "/whitelist/build/images/preview.png",
+  "whitelist/build/images/fav.png": "/whitelist/build/images/fav.png"
 }
